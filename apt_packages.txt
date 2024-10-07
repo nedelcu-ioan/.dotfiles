@@ -1,0 +1,12 @@
+git
+tmux
+npm
+i3
+curl
+build-essential
+python3.12
+python3.12-venv
+unzip
+maim
+fzf
+g++
