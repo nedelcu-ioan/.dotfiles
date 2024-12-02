@@ -10,3 +10,4 @@ unzip
 maim
 fzf
 g++
+ripgrep
